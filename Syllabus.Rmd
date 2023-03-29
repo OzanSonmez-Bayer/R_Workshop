@@ -73,6 +73,10 @@ By the end of the workshop, attendees will have a solid understanding of the ![A
 |      |                           | 7.2. Resources for further learning                           |
 |      |                           | 7.3. Open questions and clarifications                         |
 
+# Structure
+
+![Alt text](ST.png){width=125px}
+
 # Some useful Resources
 
 Here are some resources for beginners to continue learning ![Alt text](R.png){width=25px} after the workshop:
