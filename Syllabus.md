@@ -91,6 +91,10 @@ environment and be able to:
 |      |                                                               | 7.2. Resources for further learning                                                                              |
 |      |                                                               | 7.3. Open questions and clarifications                                                                           |
 
+# Structure
+
+![Alt text](ST.png)
+
 # Some useful Resources
 
 Here are some resources for beginners to continue learning

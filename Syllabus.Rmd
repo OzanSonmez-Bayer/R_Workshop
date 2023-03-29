@@ -75,7 +75,7 @@ By the end of the workshop, attendees will have a solid understanding of the ![A
 
 # Structure
 
-![Alt text](ST.png){width=125px}
+![Alt text](ST.png)
 
 # Some useful Resources
 
